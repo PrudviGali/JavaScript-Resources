@@ -8,19 +8,19 @@ Below is a list of curated resources to help learn the JavaScript and associated
 
 #### Books
 
-**[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)** -- Kyle Simpson -- _free_
+**[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)** -- Kyle Simpson -- _FREE_
 
-**[JavaScript for Cats](http://jsforcats.com/)** -- Max Ogden -- _free_
+**[JavaScript for Cats](http://jsforcats.com/)** -- Max Ogden -- _FREE_
 
-**[JavaScript Allongé](https://leanpub.com/javascript-allonge/)** -- Reginald Braithwaite -- _free
+**[JavaScript Allongé](https://leanpub.com/javascript-allonge/)** -- Reginald Braithwaite -- _FREE_
 
-**[JavaScript Spessore](https://leanpub.com/javascript-spessore)** -- Reginald Braithwaite -- _free_
+**[JavaScript Spessore](https://leanpub.com/javascript-spessore)** -- Reginald Braithwaite -- _FREE_
 
-**[Eloquent JavaScript](http://eloquentjavascript.net/)** -- Marijn Haverbeke -- _free_
+**[Eloquent JavaScript](http://eloquentjavascript.net/)** -- Marijn Haverbeke -- _FREE_
 
-**[Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)** -- Addy Osmani -- _free_
+**[Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)** -- Addy Osmani -- _FREE_
 
-**[Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)** -- Eric Elliott -- _free_
+**[Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)** -- Eric Elliott -- _FREE_
 
 **[JavaScript: The Good Parts](http://www.amazon.com/dp/0596517742/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=1CVGNYPSQ62NC&coliid=I2GN2SHPTUP0XB)** -- Douglas Crockford
 
@@ -44,4 +44,4 @@ Below is a list of curated resources to help learn the JavaScript and associated
 
 #### Books
 
-**[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)** -- Nicholas C. Zakas -- _free_
+**[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)** -- Nicholas C. Zakas -- _FREE_
